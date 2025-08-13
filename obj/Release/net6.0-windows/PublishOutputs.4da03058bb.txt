@@ -1,0 +1,5 @@
+D:\VB Codes\ROULETTE\ROULETTE.exe
+D:\VB Codes\ROULETTE\ROULETTE.dll
+D:\VB Codes\ROULETTE\ROULETTE.deps.json
+D:\VB Codes\ROULETTE\ROULETTE.runtimeconfig.json
+D:\VB Codes\ROULETTE\ROULETTE.pdb
